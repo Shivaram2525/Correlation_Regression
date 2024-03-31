@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# Name: Shivaram M.
+# Reg.No: 212223040195
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -24,6 +26,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output
 
-# Output 
+![image](https://github.com/Shivaram2525/Correlation_Regression/assets/144226303/cffe2101-e5bb-438e-b185-b7c00e0fb251)
+
+
+# Result 
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
